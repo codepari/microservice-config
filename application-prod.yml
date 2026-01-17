@@ -1,6 +1,6 @@
 spring:
    application:
-     name: Config-Prod1
+     name: Config-Prod
 
 eureka:
    instance:
